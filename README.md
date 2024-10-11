@@ -1,6 +1,6 @@
 # Antruder
 
-### Antruder is a small security project to prevent unauthorised USB flash drives <br> from being accessed by the host machine by use of a password.
+### Antruder is a small security project to prevent unauthorised USB flash drives <br> from being accessed by the host machine by use of a password. <br> <i>(My 1st ever project in High School)</i>
 
 
  <img src="/images/icon.png" alt="icon" width="150px" height="200px" align="right">
