@@ -10,9 +10,9 @@
 * USB Guard
 * Port Locker
 
-### You can test the pre-release version.
+### You can test the first release version.
 
-### TEST-MODE PRO TIP:
+### PRO TIP:
 * The zip file contains an executable file (Install the setup)
 * Default password: 0000
 * Program Icon can be found in the system-tray
